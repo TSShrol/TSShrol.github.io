@@ -25,13 +25,14 @@ body {
   }
   
   #gallery img {
-    width: 200px;
+    width: 250px;
     border-radius: 10px;
     transition: transform 0.3s;
     cursor: pointer;
   }
   #gallery img:hover {
-    transform: scale(1.1);
+    transform: scale(1.4);
+    border: 2px groove #0077cc ;
   }
   
   #media {
