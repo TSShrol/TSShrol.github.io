@@ -27,7 +27,7 @@ body {
   #gallery img {
     width: 250px;
     border-radius: 10px;
-    border: 2px groove teal;
+    border: 20px groove teal;
     transition: transform 0.3s;
     cursor: pointer;
   }
